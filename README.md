@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security and Visual Novel Games
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m not looking for a collaboration, i don't know how to do it
-- 📫 You can reach me by sending my Instagram a DM
+- 📫 You can reach me by sending me an Instagram a DM
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm still a kid XD
 
