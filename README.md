@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tuneymen
-- 👀 I’m interested in Cyber Security and Visual Novel Games
+- 👋 Hi, I’m @shisuiwhh
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m not looking for a collaboration, i don't know how to do it
 - 📫 You can reach me by Discord
