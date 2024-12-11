@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParalyzeX
+- 👋 Hi, I’m @XParalyzeX
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m not looking for a collaboration, i don't know how to do it
